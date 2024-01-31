@@ -1,0 +1,1 @@
+create sequence log_id minvalue 1000 maxvalue 9999 increment by 1 start with 1000;
